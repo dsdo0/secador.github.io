@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Secadores de Café Sustentáveis</title>
+    <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+    <div class="title">
+    <h1 >Secadores de Café Sustentáveis: Uma Escolha Ecológica para um Futuro Verde</h1>
+    </div>
+    <div class="paragrafo">
+    <font size="5">
+    <p>  O mundo enfrenta desafios ambientais cada vez maiores, e todos temos um papel a desempenhar<br> na preservação do nosso planeta. Uma das maneiras mais eficazes de contribuir para um futuro<br> sustentável é adotar tecnologias e máquinas que não poluam o meio ambiente. No setor agrícola,<br> em particular, o uso de máquinas ecologicamente corretas pode fazer uma diferença significativa.</p><img src="img/se.jpg" alt="secador de café" class="imagem">
+    <p></p>
+</font>
+    </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Secadores de Café Sustentáveis</title>
+    <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+    <div class="title">
+    <h1 >Secadores de Café Sustentáveis: Uma Escolha Ecológica para um Futuro Verde</h1>
+    </div>
+    <div class="paragrafo">
+    <font size="5">
+    <p>  O mundo enfrenta desafios ambientais cada vez maiores, e todos temos um papel a desempenhar<br> na preservação do nosso planeta. Uma das maneiras mais eficazes de contribuir para um futuro<br> sustentável é adotar tecnologias e máquinas que não poluam o meio ambiente. No setor agrícola,<br> em particular, o uso de máquinas ecologicamente corretas pode fazer uma diferença significativa.</p><img src="img/se.jpg" alt="secador de café" class="imagem">
+    <p></p>
+</font>
+    </div>
+</body>
+</html>
